@@ -14,5 +14,6 @@ export default defineConfig({
                 target: 'es2015',
             },
         },
+        host: '127.0.0.1',
     }
 );
